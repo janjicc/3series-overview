@@ -1,0 +1,39 @@
+html {
+    font-size: 15px;
+    font-family: "Piazzolla", serif;
+    background-color: #F0F8FF;
+    color: azure;
+    text-shadow:2px 2px black;
+    margin:0;
+    height: 100%;
+}  
+
+h1, h2 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 1 6px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: auto;
+    margin: 0;
+    height: 100%;
+    background-color: #89B7E0;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    background: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/*.bmw {
+    border-radius: 8px;
+    max-width: auto;
+    height: auto;
+}*/
