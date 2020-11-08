@@ -14,7 +14,7 @@ h1, h2 {
 }
 
 p, li {
-    font-size: 1 6px;
+    font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
 }
@@ -30,6 +30,13 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+}
+
+.test-feature1 {
+
+    width: 20%;
+    height: 20%;
+
 }
 
 /*.bmw {
